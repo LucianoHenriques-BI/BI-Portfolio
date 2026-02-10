@@ -1,6 +1,6 @@
 # Portfólio de BI – Luciano Henriques
 
-Sou consultor de Business Intelligence e este repositório contém
+Sou Analista de Business Intelligence e este repositório contém
 exemplos práticos de dashboards, análises de dados e tomadas de decisão.
 
 ## Ferramentas
