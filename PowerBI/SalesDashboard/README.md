@@ -1,18 +1,18 @@
-# Dashboard de Vendas
+## Visão Executiva de Vendas
 
-## Objetivo
-Criar um dashboard de vendas para análise de faturamento
-e desempenho comercial.
+**Objetivo:**  
+Fornecer uma visão rápida da performance de vendas para tomada de decisão executiva.
 
-## O que foi feito
-- Modelagem e Análise primitiva
-- Tratamento de dados no Power Query
-- Criação de medidas DAX via PowerBI
-- Visualizações interativas via PowerBI
-- Design feito via Figma e PowerPoint
+**KPIs Principais:**
+- Receita Total
+- Crescimento %
+- Ticket Médio
+- Volume de Vendas
 
-## Ferramentas
+**Público-alvo:**  
+Diretoria e gestão comercial.
+
+**Ferramentas:**
 - Power BI
-- Excel
-- PowerPoint
-- Figma
+- Modelagem dimensional
+- DAX
