@@ -4,7 +4,7 @@
 
 Este dashboard foi desenvolvido no Power BI com o objetivo de analisar a performance do negócio entre 2015 e 2018, transformando dados transacionais em informações estratégicas para tomada de decisão.
 
-O projeto apresenta indicadores executivos, evolução temporal, distribuição geográfica e análise por categoria de produtos.
+O projeto apresenta indicadores executivos, evolução temporal, distribuição geográfica e análise por categoria de produtos. Visualizações e design direto para análise do board.
 
 ## Objetivo do Projeto
 
