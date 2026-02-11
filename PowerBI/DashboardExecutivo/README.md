@@ -1,7 +1,7 @@
 # Dashboard Executivo
 
 
-## Preview do Dashboard
+## Preview do Dash
 
 <p align="center">
   <img src="DashExecutivo.png" width="900">
