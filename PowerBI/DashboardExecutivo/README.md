@@ -46,3 +46,9 @@ A aceleração do crescimento após 2016 indica ganho de escala operacional.
 - DAX
 - Excel
 - SQL
+
+## Preview do Dashboard
+
+<p align="center">
+  <img src="DashExecutivo.png" width="900">
+</p>
