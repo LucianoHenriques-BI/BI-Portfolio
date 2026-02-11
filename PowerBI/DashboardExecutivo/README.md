@@ -1,5 +1,13 @@
 # Dashboard Executivo
 
+
+## Preview do Dashboard
+
+<p align="center">
+  <img src="DashExecutivo.png" width="900">
+</p>
+
+
 ## Visão Geral
 
 Este dashboard foi desenvolvido no Power BI com o objetivo de analisar a performance do negócio entre 2015 e 2018, transformando dados transacionais em informações estratégicas para tomada de decisão.
@@ -46,9 +54,3 @@ A aceleração do crescimento após 2016 indica ganho de escala operacional.
 - DAX
 - Excel
 - SQL
-
-## Preview do Dashboard
-
-<p align="center">
-  <img src="DashExecutivo.png" width="900">
-</p>
