@@ -14,6 +14,8 @@ Este dashboard foi desenvolvido no Power BI com o objetivo de analisar a perform
 
 O projeto apresenta indicadores executivos, evolução temporal, distribuição geográfica e análise por categoria de produtos. Visualizações e design direto para análise do board.
 
+Foram feitos em projeto a extração dos dados no SQL da tabela única. No excel foi feito o staging (modelagem dimensional) direcionando para o Star Schema no PowerBI. NO PBI, tratamento de dados no Query e a criação de medidas via DAX para montagem e execução dos cads e visualizações.
+
 ## Objetivo do Projeto
 
 Responder perguntas estratégicas como:
