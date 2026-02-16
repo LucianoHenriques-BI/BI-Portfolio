@@ -5,9 +5,10 @@ exemplos práticos de dashboards, análises de dados e tomadas de decisão.
 
 ## Ferramentas
 - Power BI
+- Power Query
+- DAX
 - SQL
 - Excel
-- Power Query
 
 ## Objetivo
 Demonstrar minha capacidade de transformar dados em decisões.
